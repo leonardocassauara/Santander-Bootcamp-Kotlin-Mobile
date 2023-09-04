@@ -14,13 +14,23 @@ Nesse projeto adicionamos suporte as linguas **inglês e espanhol** em relação
 Por enquanto, o aplicativo compreende como funcionalidades e aparências apenas o template *empty* disponibilizado pelo próprio Android Studio.
 
 ## 📝 Resultado
+<h1>
+<div>
+    <a>
+        <img align="center" width="200px" src="https://i.imgur.com/VuFk1ft.jpeg">
+        <img align="center" width="200px" src="https://i.imgur.com/I5fes2k.jpeg">
+        <img align="center" width="200px" src="https://i.imgur.com/pjp2wdN.jpeg">
+    </a>
+</div>
+</h1>
 
-![Pt-Br_Ic](https://i.imgur.com/0NeCXo9.jpeg)
-![Pt-Br_App](https://i.imgur.com/VuFk1ft.jpeg)
-![En_Ic](https://i.imgur.com/drLPK6n.jpeg)
-![En_App](https://i.imgur.com/I5fes2k.jpeg)
-![Es_Ic](https://i.imgur.com/uppiKsV.jpeg)
-![Es_App](https://i.imgur.com/pjp2wdN.jpeg)
+<div>
+    <a>
+        <img align="center" width="200px" src="https://i.imgur.com/0NeCXo9.jpeg">
+        <img align="center" width="200px" src="https://i.imgur.com/uppiKsV.jpeg">
+        <img align="center" width="200px" src="https://i.imgur.com/drLPK6n.jpeg">
+    </a>
+</div>
 
 <h1>
 </h1>
