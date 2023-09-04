@@ -27,8 +27,8 @@ Por enquanto, o aplicativo compreende como funcionalidades e aparências apenas 
 <div>
     <a>
         <img align="center" width="200px" src="https://i.imgur.com/0NeCXo9.jpeg">
-        <img align="center" width="200px" src="https://i.imgur.com/uppiKsV.jpeg">
         <img align="center" width="200px" src="https://i.imgur.com/drLPK6n.jpeg">
+        <img align="center" width="200px" src="https://i.imgur.com/uppiKsV.jpeg">
     </a>
 </div>
 
