@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHubSearch</string>
+    <string name="nome_usuario">Nome do usuário</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="saved_user">saved user</string>
+    <string name="no_name_found">Campo Inválido</string>
+    <string name="response_error">Sem resposta</string>
+    <string name="redefinir">Redefinir</string>
+</resources>
